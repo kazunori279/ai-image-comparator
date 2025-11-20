@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Virtual environments
+*.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+1st_images/
+2nd_images/
+*.log
+comparison.txt
+comparison_cache.json
+output.log
+
+# Google Cloud credentials
+*.json
+credentials/
+service-account*.json
+
+# Temporary files
+*.tmp
+*.bak
